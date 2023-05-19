@@ -32,4 +32,3 @@ if (allArgs.length === 0) {
 
   console.log(secondArg);
 }
-
